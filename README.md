@@ -25,8 +25,8 @@ This is my **portfolio website** built using **HTML, CSS, and JavaScript**. It s
 
 ## 📝 Installation  
 To run this project locally:  
-1. Clone the repository: https://github.com/chaitanya200e/my-portfolio.git
-2. Open **index.html** in a browser.  
+ Clone the repository: https://github.com/chaitanya200e/my-portfolio.git
+  
 
 ## 🤝 Contributing  
 Feel free to suggest improvements or report issues!  
