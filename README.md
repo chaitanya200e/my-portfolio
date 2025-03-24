@@ -34,13 +34,6 @@ Feel free to suggest improvements or report issues!
 ## 🏆 Acknowledgments  
 Special thanks to my mentors and trainers for their guidance!  
 
----
 
-### **Step 3: Commit and Push the README**  
-If you're using Git on your PC, you can create the file locally and push it:  
 
-```bash
-echo "# My Portfolio Website" >> README.md
-git add README.md
-git commit -m "Added README file"
-git push origin main
+
