@@ -13,7 +13,7 @@ This is my **portfolio website** built using **HTML, CSS, and JavaScript**. It s
 - HTML5  
 - CSS3  
 - JavaScript  
-- Bootstrap (if used)  
+- Bootstrap   
 
  
 
